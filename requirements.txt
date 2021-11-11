@@ -1,0 +1,2 @@
+to run these successfully you must run => yarn install or npm install
+in every directory. First in root directory second to web and third is server.
